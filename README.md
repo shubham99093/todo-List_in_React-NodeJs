@@ -11,3 +11,6 @@ This project contain a simple TODO application it has the following feature -
 commands
 
 -   npm init to create package.json for backend
+-   nodemon backend
+-   cd frontend/
+-   npm run dev
